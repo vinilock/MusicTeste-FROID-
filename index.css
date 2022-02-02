@@ -1,0 +1,36 @@
+.Logo {
+    width: 100px;
+    border-radius: 80%;
+    text-align: right;
+    background-repeat: repeat;
+  }
+  h1 {
+    text-align: center;
+    margin-top: -150px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(11, 12, 12)
+
+  }
+  h5 {
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
+
+  }
+  p{
+      text-align: center;
+      font-family: Arial, Helvetica, sans-serif;
+      margin-top: 100px;
+      
+  }
+  body {
+      background-color: rgb(187, 184, 184);
+  }
+  article{
+    padding: 15px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255); 
+    margin-bottom: 10px;
+}
